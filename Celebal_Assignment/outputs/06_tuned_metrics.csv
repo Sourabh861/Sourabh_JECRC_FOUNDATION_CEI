@@ -1,4 +1,0 @@
-Model,R2,RMSE,MAE,MAPE_%,CV_R2,Best_Params
-Gradient Boosting (tuned),0.9997,70.22,54.79,0.8,0.9994,"{""learning_rate"": 0.13979877262955548, ""max_depth"": 4, ""n_estimators"": 171, ""subsample"": 0.7467983561008608}"
-XGBoost (tuned),0.9993,106.38,79.39,1.25,0.999,"{""colsample_bytree"": 0.7599443886861021, ""learning_rate"": 0.019333132642723086, ""max_depth"": 5, ""n_estimators"": 370, ""reg_alpha"": 0.45606998421703593, ""subsample"": 0.9140703845572055}"
-Random Forest (tuned),0.9987,143.95,104.54,1.66,0.9975,"{""bootstrap"": true, ""max_depth"": 8, ""max_features"": 0.7, ""min_samples_leaf"": 5, ""min_samples_split"": 5, ""n_estimators"": 459}"
